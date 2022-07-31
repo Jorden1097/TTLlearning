@@ -1,0 +1,72 @@
+<!DOCTPYE html>
+<html>
+
+<head>
+	<meta charset="utf-8"></meta>
+	<title>廖國均的申請簡章</title>
+	
+	<style type="text/css">
+	.btitle{font-weight:bold;font-size:40px;font-family:DFKai-sb}
+	.title{font-weight:bold;font-size:25px;font-family:DFKai-sb}
+	.contentAlpha{width:680px;padding:10px;border:1px dashed;font-family:DFKai-sb}
+	.hado{display: flex;justify-content:space-around}
+	.card{width:406px;height:269.5px}
+	.pose{position:absolute;left:800px;top:355px}
+	</style>
+
+
+</head>
+<body>
+	
+	<div class="btitle hado">廖國均的申請簡章</div>
+	<div class="hado card"><img src="https://jorden1097.github.io/TTLlearning/AA123.jpg"></div>
+	<div class="title">自我介紹</div>
+	<div class="contentAlpha hado">
+	我是廖國均，東吳大學德文系畢業，曾於德國明斯特大學進行一年的交換，負責台德學生交流餐會的主持人，升上大三時達到畢業門檻便創建健身社團並擔任活動公關長，<br/>
+	社團之餘在旅德專業的上選旅行社打工擔任櫃台兼總機，兵役結束後便被邀請至中國任職教練主管，除了基本業務外也包含了進行了異業結合，在重慶婦幼醫院進行實用課程培訓，因為考慮到疫情跟家人所以回到了台灣，興趣是語言、運動還有書。<br/>
+	</div>
+	
+	
+	<div class="title">為了成為軟體工程師，曾做過什麼努力？</div>
+	<div class="contentAlpha">
+	坦白說軟體工程師對我來說是全新的領域，除了跟朋友進行諮詢進而得知這個Bootcamp外，也有自己上網看了彭彭老師的教學影片，個人觀點是與其自己盲目地摸索不如找專業人士來解惑，路肯定是要自己踏實走的，但彎路可以少繞很多。
+	</div>
+	
+	
+	<div class="title">如果參與這個計畫，會怎麼安排學習時間？</div>
+	<div class="contentAlpha">
+	沒有飯局沒有旅遊，可以全職投入學習，唯一會佔去學習時間的只有固定的物理治療和訓練時間，兩者都可以進行靈活的安排。
+	</div>
+	
+	<div class="title">是否有想要加入的軟體公司？為什麼想加入該公司？</div>
+	<div class="contentAlpha">
+	KKBox，我學長以前在KKTV待過，待遇一般但適合grow career，我相信能學以致用還能有所成長是最重要的。最終還是需要和各位學長姐請教才會決定去處!<br/>
+	</div>
+	
+	<div class="title">請描述一件你曾經碰到最困難的事情，如何克服？</div>
+	<div class="contentAlpha">
+	在準備全國賽的時候受傷又碰到疫情，除了進度落後又加重受傷程度，對我而言是身體跟心靈的雙重打擊，比起獨自在異地打拼生活還要艱辛，<br/>
+	一陣掙扎後選擇放寬心態，坦然接受自己目前沒辦法那麼好的事實，尋求物理治療師幫助同時間請其他教練友人幫忙檢視課表的盲區，然後再買原文書調整訓練結構。<br/>
+	每天做作業，按部就班是我克服的方法。
+	</div>
+	
+	<div class="title">關於這份申請網頁，請分享一個你開發時的技術心得。</div>
+	<div class="contentAlpha">
+	這份申請網頁未免也太醜，眼睛能看到的排版是一回事，實際上寫的邏輯是另一回事，甚至有很多沒有聽過的工具存在!
+	對我而言該怎麼去靈活運用每一個工具是一件需要去練習跟習慣的事情，就像是健身一樣。
+	</div>
+	
+	<div class="title">其他想要對我們說的事情？</div>
+	<div class="contentAlpha">
+	或許處處都透露著我對健身的熱情，聽起來好像要繼續從事健身行業，但正是處在行業中的我明白教練的年限，日後對於管理職或是培訓職在台灣都並不是那麼適合我，正是如此才想要好好培養新的技能，來開創新的可能性。
+	</div>
+	<div class="card pose"><img src="https://jorden1097.github.io/TTLlearning/AA124.jpg"</div>
+
+
+
+
+
+
+</body>
+
+</html>
